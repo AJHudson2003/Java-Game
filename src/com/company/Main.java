@@ -8,11 +8,11 @@ public class Main {
         //predefined standard input object
         Scanner sc = new Scanner(System.in);
         //name code
-        String name = sc.nextLine();
+        string name = sc.nextLine();
 	System.out.println("enter your name: ");
        	System.out.println("name: "+ name);
        	// gender code
-       	String gender = sc.nextLine();
+       	string gender = sc.nextLine();
 	System.out.println(" enter you gender here: ");
         System.out.println("gender: "+ gender);
 	    
