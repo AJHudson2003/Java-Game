@@ -13,7 +13,11 @@
   </component>
   <component name="ProjectId" id="1TnEXA7FswcOzvkdIQqC43iCMPl" />
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Repository/gitkracken3" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
